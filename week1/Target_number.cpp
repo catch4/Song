@@ -1,3 +1,9 @@
+/*
+Catch study 1주차
+프로그래머스_타겟넘버
+https://programmers.co.kr/learn/courses/30/lessons/43165
+*/
+
 #include <iostream>
 #include <vector>
 
