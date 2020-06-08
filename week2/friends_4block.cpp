@@ -75,6 +75,8 @@ bool block_search(std::vector<string>& map, std::vector<std::vector<bool>>& ck, 
 
 // nÀÌ¶û mÀÌ¶û ¹®Á¦¶û ¹Ù²ñ
 int solution(int c_n, int c_m, vector<string> map) { 
+	n = c_n;
+	m = c_m;
 	bool flag = true;
 	while (flag) {
 		flag = false;
