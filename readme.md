@@ -10,3 +10,7 @@
   - 백준_1939번 중량 제한 [[문제 링크](https://www.acmicpc.net/problem/1939) / [코드 링크](https://github.com/catch4/Song/blob/master/week1/1939_weight_limit.cpp)]
   - 백준_1637번 날카로운 눈 [[문제 링크](https://www.acmicpc.net/problem/1637) / [코드 링크](https://github.com/catch4/Song/blob/master/week1/1637_sharp_eye.cpp)]
 
+
+
+- 2주차
+  - 프로그래머스_프렌즈4 block [[코드링크](ttps://github.com/catch4/Song/blob/master/week2/friends_4block.cpp)]
