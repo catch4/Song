@@ -13,4 +13,4 @@
 
 
 - 2주차
-  - 프로그래머스_프렌즈4 block [[코드링크](ttps://github.com/catch4/Song/blob/master/week2/friends_4block.cpp)]
+  - 프로그래머스_프렌즈4 block [[코드링크](https://github.com/catch4/Song/blob/master/week2/friends_4block.cpp)]
