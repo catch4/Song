@@ -1,16 +1,14 @@
 # Catch study
 
-- ##### [Week1](#Week1)
+- ##### [Week1](#week-1)
 
-- ##### [Week2](#Week2)
+- ##### [Week2](#week-2)
 
-- ##### [Week3](#Week3)
+- ##### [Week3](#week-3)
 
+<br>
 
-
-
-
-# Week1
+# Week 1
 
 - #### 프로그래머스
 
@@ -34,11 +32,9 @@
 
   - ##### [백준_1637번 날카로운 눈](https://www.acmicpc.net/problem/1637) - [[풀이](https://github.com/catch4/Song/blob/master/week1/1637_sharp_eye.cpp)]
 
+<br>
 
-
-
-
-# Week2
+# Week 2
 
 - #### 프로그래머스
 
@@ -60,15 +56,15 @@
 
   - ##### [백준 2352 반도체 설계](https://www.acmicpc.net/problem/2352) - [[풀이](https://github.com/catch4/Song/blob/master/week2/2352_semiconductor.cpp)]
 
-  - ##### [백준 15898 피아의 아틀리에 ~신비한 대회의 연금술사~](https://www.acmicpc.net/problem/15898) - [[풀이](https://github.com/catch4/Song/blob/master/week2/15898_alchemist.cpp)]
+  - ##### [백준 15898 피아의 아틀리에 \~신비한 대회의 연금술사\~](https://www.acmicpc.net/problem/15898) - [[풀이](https://github.com/catch4/Song/blob/master/week2/15898_alchemist.cpp)]
 
-  ##### 
+  <br>
 
-  
-
-# Week3
+# Week 3
 
 - #### 프로그래머스
+
+  - ##### [프로그래머스 N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) - [[풀이](https://github.com/catch4/Song/blob/master/week3/n_game.cpp)]
 
 
 
