@@ -73,4 +73,6 @@
   - ##### [백준_14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [[풀이](https://github.com/catch4/Song/blob/master/week3/14888_operator_insert.cpp)]
 
   - ##### [백준_4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) - [[풀이](https://github.com/catch4/Song/blob/master/week3/4485_gree_zelda.cpp)]
+  
+  - ##### [백준_1516 게임 개발](https://www.acmicpc.net/problem/1516) - [[풀이](https://github.com/catch4/Song/blob/master/week3/1516_game_development.cpp)]
 
