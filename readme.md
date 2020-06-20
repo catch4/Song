@@ -6,6 +6,8 @@
 
 - ##### [Week3](#week-3)
 
+- ##### [Week4](#week-4)
+
 <br>
 
 # Week 1
@@ -65,6 +67,8 @@
 - #### 프로그래머스
 
   - ##### [프로그래머스 N진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) - [[풀이](https://github.com/catch4/Song/blob/master/week3/n_game.cpp)]
+  
+  - ##### [프로그래머스_징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) - [[풀이](https://github.com/catch4/Song/blob/master/week3/stepping_stones.cpp)]
 
 
 
@@ -82,3 +86,14 @@
   
   - ##### [백준_5373 큐빙](https://www.acmicpc.net/problem/5373) - [[풀이](https://github.com/catch4/Song/blob/master/week3/5373_cubing.cpp)]
 
+<br>
+
+# Week 4
+
+- #### 프로그래머스
+
+
+
+
+
+- #### 백준
