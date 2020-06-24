@@ -97,3 +97,5 @@
 
 
 - #### 백준
+
+  - ##### [백준_2178 미로 탐색](https://www.acmicpc.net/problem/2178) - [[풀이](https://github.com/catch4/Song/blob/master/week4/2178_maze_navigation.cpp)]
