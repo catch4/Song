@@ -104,4 +104,6 @@
 
   - ##### [백준_16637 괄호 추가하기](https://www.acmicpc.net/problem/16637) - [[풀이](https://github.com/catch4/Song/blob/master/week4/16637_adding_parentheses.cpp)]
 
+  - ##### [백준_13460 구슬 탈출 2](https://www.acmicpc.net/problem/13460) - [[풀이](https://github.com/catch4/Song/blob/master/week4/13460_bead_escape2.cpp)]
+  
     
