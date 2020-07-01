@@ -128,4 +128,6 @@
 
   - ##### [백준_2110 공유기 설치](https://www.acmicpc.net/problem/2110) - [[풀이](https://github.com/catch4/Song/blob/master/week5/2110_router_installation.cpp)]
 
+  - ##### [백준_14502 연구실](https://www.acmicpc.net/problem/14502) - [[풀이](https://github.com/catch4/Song/blob/master/week5/14502_laboratory.cpp)]
+
   
