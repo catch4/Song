@@ -130,4 +130,7 @@
 
   - ##### [백준_14502 연구실](https://www.acmicpc.net/problem/14502) - [[풀이](https://github.com/catch4/Song/blob/master/week5/14502_laboratory.cpp)]
 
+  - ##### [백준_16234 인구 이동](https://www.acmicpc.net/problem/16234) - [[풀이](https://github.com/catch4/Song/blob/master/week5/16234_population_movement.cpp)]
   
+  
+
