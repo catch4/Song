@@ -132,5 +132,7 @@
 
   - ##### [백준_16234 인구 이동](https://www.acmicpc.net/problem/16234) - [[풀이](https://github.com/catch4/Song/blob/master/week5/16234_population_movement.cpp)]
   
+  - ##### [백준_16398 행성 연결](https://www.acmicpc.net/problem/16398) - [[풀이](https://github.com/catch4/Song/blob/master/week5/16398_planet_connection.cpp)]
+  
   
 
