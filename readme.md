@@ -134,5 +134,7 @@
   
   - ##### [백준_16398 행성 연결](https://www.acmicpc.net/problem/16398) - [[풀이](https://github.com/catch4/Song/blob/master/week5/16398_planet_connection.cpp)]
   
+  - ##### [백준_14890 경사로](https://www.acmicpc.net/problem/14890) - [[풀이](https://github.com/catch4/Song/blob/master/week5/14890_runway.cpp)]
+  
   
 
