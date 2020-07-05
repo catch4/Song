@@ -136,5 +136,7 @@
   
   - ##### [백준_14890 경사로](https://www.acmicpc.net/problem/14890) - [[풀이](https://github.com/catch4/Song/blob/master/week5/14890_runway.cpp)]
   
+  - ##### [백준_1328 고층 빌딩](https://www.acmicpc.net/problem/1328) - [[풀이](https://github.com/catch4/Song/blob/master/week5/1328_skyscrapers.cpp)]
+  
   
 
