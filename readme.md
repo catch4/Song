@@ -121,6 +121,8 @@
 - #### 프로그래머스
 
   - ##### [프로그래머스_디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - [[풀이](https://github.com/catch4/Song/blob/master/week5/disk_controller.cpp)]
+  
+  - ##### [프로그래머스_라면 공장](https://programmers.co.kr/learn/courses/30/lessons/42629) - [[풀이](https://github.com/catch4/Song/blob/master/week5/noodle_factory.cpp)]
 
 
 
