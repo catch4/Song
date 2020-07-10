@@ -157,3 +157,6 @@
 - ##### [백준_3020 개똥벌레](https://www.acmicpc.net/problem/3020) - [[풀이](https://github.com/catch4/Song/blob/master/week6/3020_Firefly.cpp)]
 
 - ##### [백준_1806 부분합](https://www.acmicpc.net/problem/1806) - [[풀이](https://github.com/catch4/Song/blob/master/week6/1806_partial_sum.cpp)]
+
+- ##### [백준_10159 저울](https://www.acmicpc.net/problem/10159) - [[풀이](https://github.com/catch4/Song/blob/master/week6/10159_scale.cpp)]
+
