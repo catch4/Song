@@ -162,3 +162,5 @@
 
 - ##### [백준_1029 그림교환](https://www.acmicpc.net/problem/1029) - [[풀이](https://github.com/catch4/Song/blob/master/week6/1029_picture_exchange.cpp)]
 
+- ##### [백준_6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) - [[풀이](https://github.com/catch4/Song/blob/master/week6/6549_histogram.cpp)]
+
