@@ -160,3 +160,5 @@
 
 - ##### [백준_10159 저울](https://www.acmicpc.net/problem/10159) - [[풀이](https://github.com/catch4/Song/blob/master/week6/10159_scale.cpp)]
 
+- ##### [백준_1029 그림교환](https://www.acmicpc.net/problem/1029) - [[풀이](https://github.com/catch4/Song/blob/master/week6/1029_picture_exchange.cpp)]
+
