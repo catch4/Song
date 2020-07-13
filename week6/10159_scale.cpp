@@ -101,3 +101,34 @@ int main() {
 	}
 	return 0;
 }
+
+/*--------------------------------
+풀이
+플로이드와샬
+
+코드는 이해를 했는데 123~126 라인에서
+j는 항상 가운데에 있어야 하는 이유를 모르겠다.
+--------------------------------*/
+#include <iostream>
+#include <vector>
+
+int main() {
+	int n, m; std::cin >> n >> m;
+	std::vector<std::vector<bool>> heavy(n, std::vector<bool>(n, 0));
+	for (int i = 0; i < m; i++)
+	{
+		int a, b; std::cin >> a >> b;
+		heavy[a - 1][b - 1] = 1;
+	}
+	for (int i = 0; i < n; i++)
+		for (int j = 0; j < n; j++)
+			for (int k = 0; k < n; k++)
+				if (heavy[j][i] && heavy[i][k]) heavy[j][k] = 1;
+	for (int i = 0; i < n; i++) {
+		int cnt = 0;
+		for (int j = 0; j < n; j++)
+			if (!heavy[i][j] && !heavy[j][i]) cnt++;
+		std::cout << cnt - 1 << '\n';
+	}
+	return 0;
+}
