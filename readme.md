@@ -12,6 +12,8 @@
 
 - ##### [Week6](#week-6)
 
+- ##### [Week7](#week-7)
+
 <br>
 
 # Week 1
@@ -164,3 +166,14 @@
 
 - ##### [백준_6549 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) - [[풀이](https://github.com/catch4/Song/blob/master/week6/6549_histogram.cpp)]
 
+
+
+# Week 7
+
+#### 프로그래머스
+
+
+
+#### 백준
+
+- ##### [백준_16236 아기상어](https://www.acmicpc.net/problem/16236) - [[풀이](https://github.com/catch4/Song/blob/master/week7/16236_shark.cpp)]
