@@ -177,3 +177,5 @@
 #### 백준
 
 - ##### [백준_16236 아기상어](https://www.acmicpc.net/problem/16236) - [[풀이](https://github.com/catch4/Song/blob/master/week7/16236_shark.cpp)]
+
+- ##### [백준_2151 거울 설치](https://www.acmicpc.net/problem/2151) - [[풀이](https://github.com/catch4/Song/blob/master/week7/2151_mirror.cpp)]
