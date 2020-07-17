@@ -10,4 +10,6 @@
   - ##### [백준_1937 욕심쟁이 판다](https://www.acmicpc.net/problem/1937) - [[풀이](https://github.com/catch4/Song/blob/master/week7/1937_panda.cpp)]
 
   - ##### [백준_6209 제자리 멀리뛰기](https://www.acmicpc.net/problem/6209) - [[풀이](https://github.com/catch4/Song/blob/master/week7/6209_long_jump.cpp)]
+  
+  - ##### [백준_16681 등산](https://www.acmicpc.net/problem/16681) - [[풀이](https://github.com/catch4/Song/blob/master/week7/16681_climbing.cpp)]
 
