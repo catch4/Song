@@ -2,6 +2,10 @@
 
 - #### 프로그래머스
 
+  - ##### [프로그래머스_보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) - [[풀이](https://github.com/catch4/Song/blob/master/week7/jewelry_shopping.cpp)]
+
+  
+
 - #### 백준
   - ##### [백준_16236 아기상어](https://www.acmicpc.net/problem/16236) - [[풀이](https://github.com/catch4/Song/blob/master/week7/16236_shark.cpp)]
 
