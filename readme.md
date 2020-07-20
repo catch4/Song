@@ -14,6 +14,8 @@
 
 - ##### [Week7](#week-7)
 
+- ##### [Week8](#week-8)
+
 <br>
 
 # Week 1
@@ -187,4 +189,20 @@
   - ##### [백준_16681 등산](https://www.acmicpc.net/problem/16681) - [[풀이](https://github.com/catch4/Song/blob/master/week7/16681_climbing.cpp)]
   
   - ##### [백준_3430 용이산다](https://www.acmicpc.net/problem/3430) - [[풀이](https://github.com/catch4/Song/blob/master/week7/3430_dragon.cpp)]
+
+
+
+# Week 8
+
+- #### 프로그래머스
+
+  - ##### [프로그래머스_땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) - [[풀이](https://github.com/catch4/Song/blob/master/week8/land.cpp)]
+
+  
+
+- #### 백준
+
+  
+
+  
 
