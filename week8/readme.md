@@ -6,3 +6,6 @@
 
   
 
+- #### 백준
+
+  - ##### [백준_1956 운동](https://www.acmicpc.net/problem/1956) - [[풀이](https://github.com/catch4/Song/blob/master/week8/1956_exercising.cpp)]
