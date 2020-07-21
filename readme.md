@@ -206,5 +206,7 @@
 
   - ##### [백준_3980 선발 명단](https://www.acmicpc.net/problem/3980) - [[풀이](https://github.com/catch4/Song/blob/master/week8/3980_MANU.cpp)]
   
+  - ##### [백준_2146 다리 만들기](https://www.acmicpc.net/problem/2146) - [[풀이](https://github.com/catch4/Song/blob/master/week8/bridge.cpp)]
+  
   
   
