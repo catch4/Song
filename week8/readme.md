@@ -14,4 +14,7 @@
 
   - ##### [백준_2146 다리 만들기](https://www.acmicpc.net/problem/2146) - [[풀이](https://github.com/catch4/Song/blob/master/week8/bridge.cpp)]
   
+  - ##### [백준_2014 소수의 곱](https://www.acmicpc.net/problem/2014) - [[풀이](https://github.com/catch4/Song/blob/master/week8/2014_prime_product.cpp)]
   
+  
+
