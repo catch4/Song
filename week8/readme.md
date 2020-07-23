@@ -16,5 +16,7 @@
   
   - ##### [백준_2014 소수의 곱](https://www.acmicpc.net/problem/2014) - [[풀이](https://github.com/catch4/Song/blob/master/week8/2014_prime_product.cpp)]
   
+  - ##### [백준_2252 줄 세우기](https://www.acmicpc.net/problem/2252) - [[풀이](https://github.com/catch4/Song/blob/master/week8/2252_line.cpp)]
+  
   
 
