@@ -212,5 +212,7 @@
   
   - ##### [백준_2252 줄 세우기](https://www.acmicpc.net/problem/2252) - [[풀이](https://github.com/catch4/Song/blob/master/week8/2252_line.cpp)]
   
+  - ##### [백준_9576 책 나눠주기](https://www.acmicpc.net/problem/9576) - [[풀이](https://github.com/catch4/Song/blob/master/week8/9576_book.cpp)]
+  
   
   
