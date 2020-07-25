@@ -198,6 +198,8 @@
 
   - ##### [프로그래머스_땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) - [[풀이](https://github.com/catch4/Song/blob/master/week8/land.cpp)]
 
+  - ##### [프로그래머스_경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) - [[풀이](https://github.com/catch4/Song/blob/master/week8/track.cpp)]
+
   
 
 - #### 백준
