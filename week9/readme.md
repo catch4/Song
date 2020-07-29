@@ -8,4 +8,4 @@
 
 - #### 백준
 
-  - ##### [백준_1956 운동](https://www.acmicpc.net/problem/6593) - [[풀이](https://github.com/catch4/Song/blob/master/week9/6593_Sangbum building.cpp)]
+  - ##### [백준_1956 운동](https://www.acmicpc.net/problem/6593) - [[풀이](https://github.com/catch4/Song/blob/master/week9/6593_Sangbum%20building.cpp)]
