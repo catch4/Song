@@ -13,3 +13,5 @@
   - ##### [백준_2239 스도쿠](https://www.acmicpc.net/problem/2239) - [[풀이](https://github.com/catch4/Song/blob/master/week9/2239_sdoku.cpp)]
   
   - ##### [백준_1507 궁금한 민호](https://www.acmicpc.net/problem/1507) - [[풀이](https://github.com/catch4/Song/blob/master/week9/1507_minho.cpp)]
+  
+  - ##### [백준_17143 낚시왕](https://www.acmicpc.net/problem/17143) - [[풀이](https://github.com/catch4/Song/blob/master/week9/17143_king_of_fishing.cpp)]
