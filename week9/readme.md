@@ -15,3 +15,5 @@
   - ##### [백준_1507 궁금한 민호](https://www.acmicpc.net/problem/1507) - [[풀이](https://github.com/catch4/Song/blob/master/week9/1507_minho.cpp)]
   
   - ##### [백준_17143 낚시왕](https://www.acmicpc.net/problem/17143) - [[풀이](https://github.com/catch4/Song/blob/master/week9/17143_king_of_fishing.cpp)]
+  
+  - ##### [백준_2342 Dance Dance Revolution](https://www.acmicpc.net/problem/2342) - [[풀이](https://github.com/catch4/Song/blob/master/week9/2342_DanceDanceRevolution.cpp)]
