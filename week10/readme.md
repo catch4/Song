@@ -13,4 +13,6 @@
   - ##### [백준_5052 전화번호 목록](https://www.acmicpc.net/problem/5052) - [[풀이](https://github.com/catch4/Song/blob/master/week10/5052_phone_numbers.cpp)]
   
   - ##### [백준_1167 트리의 지름](https://www.acmicpc.net/problem/1167) - [[풀이](https://github.com/catch4/Song/blob/master/week10/1167_diameter_of_tree.cpp)]
+  
+  - ##### [백준_2887 행성터널](https://www.acmicpc.net/problem/2887) - [[풀이](https://github.com/catch4/Song/blob/master/week10/2887_planet_ternel.cpp)]
 
