@@ -7,11 +7,16 @@ using namespace std;
 
 int solution(int cacheSize, vector<string> cities){
 	int answer =0;
+    if(!cacheSize)
+    {
+        return cities.size()*5;
+    }
 	vector<string> cache;
 	for(int i=0;i<cities.size();i++)
 	{
 		string str = cities[i];
 		std::transform(str.begin(),str.end(),str.begin(),::toupper);
+       
 		auto iter = find(cache.begin(),cache.end(),str);
 		if(iter!=cache.end())
 		{
@@ -29,16 +34,14 @@ int solution(int cacheSize, vector<string> cities){
 			answer+=5;
 
 		}
-		std::cout<<i<<"번 째"<<'\n';
-		for(int i=0;i<cache.size();i++)
-			std::cout<<cache[i]<<" ";
-		std::cout<<'\n';
+	
 
 	}
 
 
 	return answer;
 }
+
 
 int main(){
 	int cacheSize=0;
