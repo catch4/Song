@@ -295,3 +295,5 @@
   - ##### [백준_1509 팰린드롬 분할](https://www.acmicpc.net/problem/1509) - [[풀이](https://github.com/catch4/Song/blob/master/week11/1509_Palindrome_Split.cpp)]
   
   - ##### [백준_3015 오아시스 재결합](https://www.acmicpc.net/problem/3015) - [[풀이](https://github.com/catch4/Song/blob/master/week11/3015_oasis.cpp)]
+  
+  - ##### [백준_7432 디스크트리](https://www.acmicpc.net/problem/7432) - [[풀이](https://github.com/catch4/Song/blob/master/week11/7432_disk_tree.cpp)]
