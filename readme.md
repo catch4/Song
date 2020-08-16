@@ -291,3 +291,5 @@
   - ##### [백준_1342 행운의 문자열](https://www.acmicpc.net/problem/1342) - [[풀이](https://github.com/catch4/Song/blob/master/week11/1342_lucky_string.cpp)]
   
   - ##### [백준_2931 가스관](https://www.acmicpc.net/problem/2931) - [[풀이](https://github.com/catch4/Song/blob/master/week11/2931_pipeline.cpp)]
+  
+  - ##### [백준_1509 팰린드롬 분할](https://www.acmicpc.net/problem/1509) - [[풀이](https://github.com/catch4/Song/blob/master/week11/1509_Palindrome_Split.cpp)]
