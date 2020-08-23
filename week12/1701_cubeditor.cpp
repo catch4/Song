@@ -12,13 +12,12 @@ https://www.acmicpc.net/problem/1701
 #include <iostream>
 #include <vector>
 #include <string>
-using namespace std;
 int ans, n, pi[5001];
 std::string t;
 
 int main() {
-	cin.sync_with_stdio(false); cin.tie(NULL);
-	cin >> t;
+	std::cin.sync_with_stdio(false); std::cin.tie(NULL);
+	std::cin >> t;
 	for (int i = 0; i<t.size(); i++) {
 		int k = 0;
 		for (int j = i + 1; j<t.size(); j++) {
@@ -30,5 +29,5 @@ int main() {
 			pi[j - i] = k; // 접두어와 접미사가 동일한 길이 체크
 		}
 	}
-	cout << ans;
+	std::cout << ans;
 }
