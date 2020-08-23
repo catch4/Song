@@ -8,3 +8,4 @@
 
   - ##### [백준_1043 거짓말](https://www.acmicpc.net/problem/1043) - [[풀이](https://github.com/catch4/Song/blob/master/week12/1043_lier.cpp)]
 
+  - ##### [백준_9935 문자열 폭발](https://www.acmicpc.net/problem/9935) - [[풀이](https://github.com/catch4/Song/blob/master/week12/9935_string_explosion.cpp)]
