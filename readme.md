@@ -344,6 +344,8 @@
 
   - ##### [백준_17825 주사위 윷놀이](https://www.acmicpc.net/problem/17825) - [[풀이](https://github.com/catch4/Song/blob/master/week13/17825_dice_yut.cpp)]
 
+  - ##### [백준_7575 바이러스](https://www.acmicpc.net/problem/7575) - [[풀이](https://github.com/catch4/Song/blob/master/week13/7575_virus.cpp)]
+
   
 
   
