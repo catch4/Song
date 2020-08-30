@@ -34,3 +34,5 @@
 
   - ##### [백준_7579 앱](https://www.acmicpc.net/problem/7579) - [[풀이](https://github.com/catch4/Song/blob/master/week13/7579_application.cpp)]
 
+  - ##### [백준_17825 주사위 윷놀이](https://www.acmicpc.net/problem/17825) - [[풀이](https://github.com/catch4/Song/blob/master/week13/17825_dice_yut.cpp)]
+
