@@ -1,7 +1,7 @@
 /*
-Catch study 12주차
-백준_문자열 폭발
-https://www.acmicpc.net/problem/9935
+Catch study 13주차
+백준_피자굽기
+https://www.acmicpc.net/problem/1756
 */
 /*-----------------
 틀린이유
