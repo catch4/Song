@@ -32,3 +32,5 @@
 
   - ##### [백준_15998 카카오 머니](https://www.acmicpc.net/problem/15998) - [[풀이](https://github.com/catch4/Song/blob/master/week13/15998_kakao_money.cpp)]
 
+  - ##### [백준_7579 앱](https://www.acmicpc.net/problem/7579) - [[풀이](https://github.com/catch4/Song/blob/master/week13/7579_application.cpp)]
+
