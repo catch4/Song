@@ -346,6 +346,8 @@
 
   - ##### [백준_7575 바이러스](https://www.acmicpc.net/problem/7575) - [[풀이](https://github.com/catch4/Song/blob/master/week13/7575_virus.cpp)]
 
+  - ##### [백준_5719 거의 최단경로](https://www.acmicpc.net/problem/5719) - [[풀이](https://github.com/catch4/Song/blob/master/week13/5719_almost_the_shortest_path.cpp)]
+
   
 
   
