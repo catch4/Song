@@ -26,6 +26,8 @@
 
 - ##### [Week13](#week-13)
 
+- ##### [Week14](#week-14)
+
 <br>
 
 # Week 1
@@ -352,6 +354,18 @@
 
   - ##### [백준_5719 거의 최단경로](https://www.acmicpc.net/problem/5719) - [[풀이](https://github.com/catch4/Song/blob/master/week13/5719_almost_the_shortest_path.cpp)]
 
-  
 
-  
+
+
+<br>
+
+
+
+# Week 14
+
+- #### 프로그래머스
+
+  - ##### [프로그래머스_불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) - [[풀이](https://github.com/catch4/Song/blob/master/week14/bad_user.cpp)]
+
+
+
