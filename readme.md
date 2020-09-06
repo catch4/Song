@@ -372,3 +372,5 @@
 
   - ##### [백준_13905 세부](https://www.acmicpc.net/problem/13905) - [[풀이](https://github.com/catch4/Song/blob/master/week14/13905_cebu.cpp)]
 
+  - ##### [백준_17780 새로운 게임](https://www.acmicpc.net/problem/17780) - [[풀이](https://github.com/catch4/Song/blob/master/week14/17780_new_game.cpp)]
+
