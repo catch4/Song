@@ -4,7 +4,7 @@ Catch study 14주차
 https://www.acmicpc.net/problem/17780
 */
 /*-----------------
-틀렸떤 이유
+틀렸던 이유
 - 빨간색 이동 잘못이해함
 맨 처음에 빨간색은 뒤로 입력해야 하는줄 알고 deque 사용했었음 push_back만 쓸거면 vector 쓸걸
 
