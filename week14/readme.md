@@ -7,3 +7,5 @@
 - #### 백준
 
   - ##### [백준_4358 생태학](https://www.acmicpc.net/problem/4358) - [[풀이](https://github.com/catch4/Song/blob/master/week14/4358_ecology.cpp)]
+
+  - ##### [백준_13905 세부](https://www.acmicpc.net/problem/13905) - [[풀이](https://github.com/catch4/Song/blob/master/week14/13905_cebu.cpp)]
