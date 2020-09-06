@@ -378,3 +378,5 @@
 
   - ##### [백준_14725 개미굴](https://www.acmicpc.net/problem/14725) - [[풀이](https://github.com/catch4/Song/blob/master/week14/14725_Ant_colony.cpp)]
 
+  - ##### [백준_1135 뉴스 전하기](https://www.acmicpc.net/problem/1135) - [[풀이](https://github.com/catch4/Song/blob/master/week14/1135_news.cpp)]
+
