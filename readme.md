@@ -30,6 +30,8 @@
 
 - ##### [Week15](#week-15)
 
+- [Week17](#week-17)
+
 <br>
 
 # Week 1
@@ -395,4 +397,14 @@
 - #### 프로그래머스
 
   - ##### [프로그래머스_압축](https://programmers.co.kr/learn/courses/30/lessons/17684) - [[풀이](https://github.com/catch4/Song/blob/master/week15/compression.cpp)]
+
+
+
+
+
+# Week 17
+
+- #### 백준
+
+  - ##### [백준_17142 연구실3](https://www.acmicpc.net/problem/17142) - [[풀이](https://github.com/catch4/Song/blob/master/week17/17142_lab3.cpp)]
 
