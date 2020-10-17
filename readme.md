@@ -34,6 +34,10 @@
 
 - ##### [Week18](#week-18)
 
+- ##### [Week19](#week-19)
+
+- ##### [Week20](#week-20)
+
 <br>
 
 # Week 1
@@ -423,4 +427,26 @@
   - ##### [백준_14226 이모티콘](https://www.acmicpc.net/problem/14226) - [[풀이](https://github.com/catch4/Song/blob/master/week18/14226.cpp)]
 
   - ##### [백준_9007 카누 선수](https://www.acmicpc.net/problem/9007) - [[풀이](https://github.com/catch4/Song/blob/master/week18/9007_canu.cpp)]
+
+
+
+# Week 19
+
+- #### 백준
+
+  - ##### [백준_13549 숨바꼭질 3](https://www.acmicpc.net/problem/13549) - [[풀이](https://github.com/catch4/Song/blob/master/week19/13549_sumba.cpp)]
+
+  - ##### [백준_2563 색종이](https://www.acmicpc.net/problem/2563) - [[풀이](https://github.com/catch4/Song/blob/master/week19/2563_colored_paper.cpp)]
+
+  - ##### [백준_2533 사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) - [[풀이](https://github.com/catch4/Song/blob/master/week19/2533_sns.cpp)]
+
+
+
+# Week 20
+
+- #### 백준
+
+  - ##### [백준_18427 함께 블록 쌓기](https://www.acmicpc.net/problem/18427) - [[풀이](https://github.com/catch4/Song/blob/master/week20/18427_block_together.cpp)]
+
+    
 
