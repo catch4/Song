@@ -38,6 +38,10 @@
 
 - ##### [Week20](#week-20)
 
+- ##### [Nov 3rd week](#nov-3rd-week)
+
+- ##### [Nov 4th week](#nov-4th-week)
+
 <br>
 
 # Week 1
@@ -451,6 +455,26 @@
   - ##### [백준_18513 샘터](https://www.acmicpc.net/problem/18513) - [[풀이](https://github.com/catch4/Song/blob/master/week20/18513_oasis.cpp)]
   
   - ##### [백준_14284 간선 이어가기2](https://www.acmicpc.net/problem/14284) - [[풀이](https://github.com/catch4/Song/blob/master/week20/14284_connecting_edge.cpp)]
-  
-    
+
+
+
+# Nov 3rd Week
+
+- #### 백준
+
+  - ##### [백준_1766 문제집](https://www.acmicpc.net/problem/1766) - [[풀이](https://github.com/catch4/Song/blob/master/nov_3rd_week/1766_workbook.cpp)]
+
+  - ##### [백준_2002 추월](https://www.acmicpc.net/problem/2002) - [[풀이](https://github.com/catch4/Song/blob/master/nov_3rd_week/2002_overtaking.cpp)]
+
+
+
+# Nov 4th Week
+
+- #### 백준
+
+  - ##### [백준_19949 영재의 시험](https://www.acmicpc.net/problem/19949) - [[풀이](https://github.com/catch4/Song/blob/master/nov_4th_week/19949.cpp)]
+
+  - ##### [백준_20159 동작 그만, 밑장 빼기냐?](https://www.acmicpc.net/problem/20159) - [[풀이](https://github.com/catch4/Song/blob/master/nov_4th_week/20159.cpp)]
+
+
 
