@@ -38,9 +38,15 @@
 
 - ##### [Week20](#week-20)
 
-- ##### [Nov 3rd week](#nov-3rd-week)
+- ##### [Nov 3rd week](#nov-3rd-week-1)
 
-- ##### [Nov 4th week](#nov-4th-week)
+- ##### [Nov 4th week](#nov-4th-week-1)
+
+- ##### [Dec 1st week](#dec-1st-week-1)
+
+- ##### [Dec 3rd week](#dec-3rd-week-1)
+
+
 
 <br>
 
