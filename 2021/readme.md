@@ -6,6 +6,8 @@
 
 - ##### [Jan 3rd week](#jan-3rd-week-1)
 
+- ##### [Jan 4th week](#jan-4th-week-1)
+
   
 
 
@@ -41,6 +43,17 @@
 
   - ##### [백준_1079 마피아](https://www.acmicpc.net/problem/1079) - [[풀이](https://github.com/catch4/Song/blob/master/2021/jan_3rd_week/1079.cpp)]
 
-  
 
-  
+
+
+
+
+# Jan 4th Week
+
+- #### 백준
+
+  - ##### [백준_20210 호반우와 리듬게임](https://www.acmicpc.net/problem/20210) - [[풀이](https://github.com/catch4/Song/blob/master/2021/jan_4th_week/20210.cpp)]
+
+
+
+
