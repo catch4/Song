@@ -1,3 +1,13 @@
+/*
+Catch study 21/feb/1week
+백준_로봇
+https://www.acmicpc.net/problem/1726
+*/
+/*-----------------
+풀이
+bfs
+위치, 방향에 대한 check array 사용.
+-----------------*/
 #include <iostream>
 #include <vector>
 #include <string.h>
