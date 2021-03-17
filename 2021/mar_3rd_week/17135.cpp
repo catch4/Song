@@ -26,7 +26,6 @@ void simul(vec2d& mp, std::vector<bool>& ar) {
 		bool find[3];
 		for (int a = 0; a < ar.size(); a++) {
 			if (!ar[a]) continue;
-			std::cout << "a=" << a << '\n';
 			find[p] = false;
 			for (int d = 0; d < dis; d++)
 			{
@@ -66,24 +65,11 @@ void simul(vec2d& mp, std::vector<bool>& ar) {
 				kill += 1;
 			}
 		}
-		/*std::cout << "pre_age" << '\n';
-		for (int ti = 0; ti < n; ti++) {
-			for (int tj = 0; tj < m; tj++)
-				std::cout << tmp[ti][tj] << " ";
-			std::cout << '\n';
-		}*/
+
 		if (enemy) age(tmp, enemy);
 
-		/*std::cout << "post_age" << '\n';
-		for (int ti = 0; ti < n; ti++) {
-			for (int tj = 0; tj < m; tj++)
-				std::cout << tmp[ti][tj] << " ";
-			std::cout << '\n';
-		}
-		std::cout << enemy<<'\n';*/
 	
 	}
-	std::cout << kill << '\n';
 	if (answer < kill) answer = kill;
 }
 
