@@ -18,6 +18,10 @@
 
 - ##### [Mar 4th week](#mar-4th-week-1)
 
+- ##### [Apr 2nd week](#apr-2nd-week-1)
+
+- ##### [Apr 3rd week](#apr-3rd-week-1)
+
 
 # Jan 1st Week
 
@@ -132,3 +136,29 @@
   - ##### [백준_16434 드래곤 앤 던전](https://www.acmicpc.net/problem/16434) - [[풀이](https://github.com/catch4/Song/blob/master/2021/mar_4th_week/16434.cpp)]
 
   
+
+# Apr 2nd Week
+
+- #### 백준
+
+  - ##### [백준_1623 신년파티](https://www.acmicpc.net/problem/1623) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_2nd_week/1623.cpp)]
+
+  - ##### [백준_6416 트리인가?](https://www.acmicpc.net/problem/6416) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_2nd_week/6416.cpp)]
+
+  - ##### [백준_12904 A와 B](https://www.acmicpc.net/problem/12904) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_2nd_week/12904.cpp)]
+
+  - ##### [백준_15486 퇴사2](https://www.acmicpc.net/problem/15486) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_2nd_week/15486.cpp)]
+
+  
+
+# Apr 3rd Week
+
+- #### 백준
+
+  - ##### [백준_16985 Maaaaaaaaaze](https://www.acmicpc.net/problem/16985) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_3rd_week/16985.cpp)]
+
+  - ##### [백준_2099 The game of death](https://www.acmicpc.net/problem/2099) - [[풀이](https://github.com/catch4/Song/blob/master/2021/apr_3rd_week/2099.cpp)]
+
+
+  
+
